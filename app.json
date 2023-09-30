@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Joymish",
+    "slug": "joymish",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.barrister1990.joymish"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
